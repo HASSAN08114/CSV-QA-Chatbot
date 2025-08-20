@@ -1,0 +1,12 @@
+# API Keys Template - Rename this file to .env and add your actual keys
+OPENAI_API_KEY=your_openai_api_key_here
+GOOGLE_API_KEY=your_new_gemini_api_key_here
+GROQ_API_KEY=your_groq_api_key_here
+
+# Optional: HuggingFace settings
+HF_MODEL_NAME=gpt2
+HF_DEVICE=cpu
+
+
+
+

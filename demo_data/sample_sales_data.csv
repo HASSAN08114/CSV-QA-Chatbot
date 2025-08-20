@@ -1,0 +1,78 @@
+Date,Product,Category,Region,Sales_Amount,Units_Sold,Price,Rating,Customer_Satisfaction,Marketing_Spend,Profit_Margin
+2024-01-15,Laptop Pro,Electronics,North,1250.50,5,250.10,4.5,85,500.00,0.25
+2024-01-16,Wireless Mouse,Electronics,South,45.99,12,3.83,4.2,78,100.00,0.30
+2024-01-17,Office Chair,Furniture,East,299.99,2,149.99,4.8,92,200.00,0.35
+2024-01-18,Smartphone,Electronics,West,899.99,8,112.50,4.6,88,300.00,0.20
+2024-01-19,Desk Lamp,Furniture,North,89.99,15,6.00,4.1,75,150.00,0.40
+2024-01-20,Bluetooth Speaker,Electronics,South,129.99,10,13.00,4.3,82,120.00,0.28
+2024-01-21,Standing Desk,Furniture,East,599.99,3,200.00,4.7,90,250.00,0.30
+2024-01-22,Tablet,Electronics,West,449.99,6,75.00,4.4,85,180.00,0.22
+2024-01-23,Monitor,Electronics,North,299.99,4,75.00,4.6,87,200.00,0.25
+2024-01-24,Office Chair,Furniture,South,299.99,2,149.99,4.8,92,200.00,0.35
+2024-01-25,Gaming Mouse,Electronics,East,79.99,20,4.00,4.5,89,100.00,0.35
+2024-01-26,Bookshelf,Furniture,West,199.99,8,25.00,4.2,80,150.00,0.30
+2024-01-27,Wireless Keyboard,Electronics,North,89.99,12,7.50,4.3,84,120.00,0.32
+2024-01-28,Desk Organizer,Furniture,South,29.99,25,1.20,4.0,76,80.00,0.45
+2024-01-29,Webcam,Electronics,East,149.99,7,21.43,4.4,86,100.00,0.28
+2024-01-30,File Cabinet,Furniture,West,399.99,5,80.00,4.1,78,180.00,0.25
+2024-01-31,Laptop Pro,Electronics,North,1250.50,3,416.83,4.5,85,500.00,0.25
+2024-02-01,Wireless Mouse,Electronics,South,45.99,8,5.75,4.2,78,100.00,0.30
+2024-02-02,Office Chair,Furniture,East,299.99,1,299.99,4.8,92,200.00,0.35
+2024-02-03,Smartphone,Electronics,West,899.99,4,225.00,4.6,88,300.00,0.20
+2024-02-04,Desk Lamp,Furniture,North,89.99,10,9.00,4.1,75,150.00,0.40
+2024-02-05,Bluetooth Speaker,Electronics,South,129.99,6,21.67,4.3,82,120.00,0.28
+2024-02-06,Standing Desk,Furniture,East,599.99,2,300.00,4.7,90,250.00,0.30
+2024-02-07,Tablet,Electronics,West,449.99,3,150.00,4.4,85,180.00,0.22
+2024-02-08,Monitor,Electronics,North,299.99,2,150.00,4.6,87,200.00,0.25
+2024-02-09,Office Chair,Furniture,South,299.99,1,299.99,4.8,92,200.00,0.35
+2024-02-10,Gaming Mouse,Electronics,East,79.99,15,5.33,4.5,89,100.00,0.35
+2024-02-11,Bookshelf,Furniture,West,199.99,5,40.00,4.2,80,150.00,0.30
+2024-02-12,Wireless Keyboard,Electronics,North,89.99,8,11.25,4.3,84,120.00,0.32
+2024-02-13,Desk Organizer,Furniture,South,29.99,20,1.50,4.0,76,80.00,0.45
+2024-02-14,Webcam,Electronics,East,149.99,4,37.50,4.4,86,100.00,0.28
+2024-02-15,File Cabinet,Furniture,West,399.99,3,133.33,4.1,78,180.00,0.25
+2024-02-16,Laptop Pro,Electronics,North,1250.50,4,312.63,4.5,85,500.00,0.25
+2024-02-17,Wireless Mouse,Electronics,South,45.99,10,4.60,4.2,78,100.00,0.30
+2024-02-18,Office Chair,Furniture,East,299.99,2,149.99,4.8,92,200.00,0.35
+2024-02-19,Smartphone,Electronics,West,899.99,5,180.00,4.6,88,300.00,0.20
+2024-02-20,Desk Lamp,Furniture,North,89.99,12,7.50,4.1,75,150.00,0.40
+2024-02-21,Bluetooth Speaker,Electronics,South,129.99,7,18.57,4.3,82,120.00,0.28
+2024-02-22,Standing Desk,Furniture,East,599.99,1,599.99,4.7,90,250.00,0.30
+2024-02-23,Tablet,Electronics,West,449.99,4,112.50,4.4,85,180.00,0.22
+2024-02-24,Monitor,Electronics,North,299.99,3,100.00,4.6,87,200.00,0.25
+2024-02-25,Office Chair,Furniture,South,299.99,2,149.99,4.8,92,200.00,0.35
+2024-02-26,Gaming Mouse,Electronics,East,79.99,18,4.44,4.5,89,100.00,0.35
+2024-02-27,Bookshelf,Furniture,West,199.99,6,33.33,4.2,80,150.00,0.30
+2024-02-28,Wireless Keyboard,Electronics,North,89.99,9,10.00,4.3,84,120.00,0.32
+2024-02-29,Desk Organizer,Furniture,South,29.99,22,1.36,4.0,76,80.00,0.45
+2024-03-01,Webcam,Electronics,East,149.99,5,30.00,4.4,86,100.00,0.28
+2024-03-02,File Cabinet,Furniture,West,399.99,4,100.00,4.1,78,180.00,0.25
+2024-03-03,Laptop Pro,Electronics,North,1250.50,6,208.42,4.5,85,500.00,0.25
+2024-03-04,Wireless Mouse,Electronics,South,45.99,14,3.28,4.2,78,100.00,0.30
+2024-03-05,Office Chair,Furniture,East,299.99,3,100.00,4.8,92,200.00,0.35
+2024-03-06,Smartphone,Electronics,West,899.99,7,128.57,4.6,88,300.00,0.20
+2024-03-07,Desk Lamp,Furniture,North,89.99,18,5.00,4.1,75,150.00,0.40
+2024-03-08,Bluetooth Speaker,Electronics,South,129.99,9,14.44,4.3,82,120.00,0.28
+2024-03-09,Standing Desk,Furniture,East,599.99,4,150.00,4.7,90,250.00,0.30
+2024-03-10,Tablet,Electronics,West,449.99,5,90.00,4.4,85,180.00,0.22
+2024-03-11,Monitor,Electronics,North,299.99,5,60.00,4.6,87,200.00,0.25
+2024-03-12,Office Chair,Furniture,South,299.99,3,100.00,4.8,92,200.00,0.35
+2024-03-13,Gaming Mouse,Electronics,East,79.99,25,3.20,4.5,89,100.00,0.35
+2024-03-14,Bookshelf,Furniture,West,199.99,10,20.00,4.2,80,150.00,0.30
+2024-03-15,Wireless Keyboard,Electronics,North,89.99,15,6.00,4.3,84,120.00,0.32
+2024-03-16,Desk Organizer,Furniture,South,29.99,30,1.00,4.0,76,80.00,0.45
+2024-03-17,Webcam,Electronics,East,149.99,6,25.00,4.4,86,100.00,0.28
+2024-03-18,File Cabinet,Furniture,West,399.99,6,66.67,4.1,78,180.00,0.25
+2024-03-19,Laptop Pro,Electronics,North,1250.50,7,178.64,4.5,85,500.00,0.25
+2024-03-20,Wireless Mouse,Electronics,South,45.99,16,2.87,4.2,78,100.00,0.30
+2024-03-21,Office Chair,Furniture,East,299.99,4,75.00,4.8,92,200.00,0.35
+2024-03-22,Smartphone,Electronics,West,899.99,9,100.00,4.6,88,300.00,0.20
+2024-03-23,Desk Lamp,Furniture,North,89.99,20,4.50,4.1,75,150.00,0.40
+2024-03-24,Bluetooth Speaker,Electronics,South,129.99,11,11.82,4.3,82,120.00,0.28
+2024-03-25,Standing Desk,Furniture,East,599.99,5,120.00,4.7,90,250.00,0.30
+2024-03-26,Tablet,Electronics,West,449.99,6,75.00,4.4,85,180.00,0.22
+2024-03-27,Monitor,Electronics,North,299.99,6,50.00,4.6,87,200.00,0.25
+2024-03-28,Office Chair,Furniture,South,299.99,4,75.00,4.8,92,200.00,0.35
+2024-03-29,Gaming Mouse,Electronics,East,79.99,28,2.86,4.5,89,100.00,0.35
+2024-03-30,Bookshelf,Furniture,West,199.99,12,16.67,4.2,80,150.00,0.30
+2024-03-31,Wireless Keyboard,Electronics,North,89.99,18,5.00,4.3,84,120.00,0.32
